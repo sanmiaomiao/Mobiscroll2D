@@ -5,5 +5,5 @@
 
 参考了https://github.com/tlzuo/vue-scroll-picker 这位大神的楼层选择器，感谢！把3D滚动改为了2D滚动
 
-直接给了组件的vue文件夹，引入即可用
+直接给了组件的vue文件，引入即可用
 
